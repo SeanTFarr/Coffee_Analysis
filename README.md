@@ -1,5 +1,5 @@
 # Coffee_Analysis
-An Analysis of worldwide coffee production and consumption.
+An analysis and visualization of worldwide coffee production and consumption.
 ## General Information
 Though I have been involved in may analysis projects, this project is my first "stand alone" analysis. No tutorials, no solution code, just using what I have been learning through various classes in Data Analysis.
 
