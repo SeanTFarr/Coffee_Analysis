@@ -9,8 +9,17 @@ The project invovles:
 - DataFrame creation for analysis
 - Data visualization
 
+I hope to answer
+- who are the top 5 countries for exporting, importing, and consuming coffee?
+- what has the growth been for these countries?
+- which country has seen the largest growth?
+
+I am sure there will be additional questions that will arise during the anaylsis.
+
 ## Data
 ### Data information
+
+The data covers the production, consumption, import, export, and re-export of coffee from 1990 to 2019 in ICO countries.
 
 Data was downloaded from the International Coffee Organization (ICO) website
 [ICO Data](https://www.ico.org/new_historical.asp)
