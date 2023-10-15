@@ -40,4 +40,12 @@ Permission is given on the historical data page "The selected data may be downlo
 - Matplotlib
 - Seaborn
 
-## 
+## Status of project
+- Uploading data &#9745;
+- Preprocessing data &#9744;
+- Creating cleaned csv files &#9744;
+- Data visualization &#9744;
+- Final reporting &#9744;
+
+
+
