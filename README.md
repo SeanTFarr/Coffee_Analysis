@@ -1,20 +1,23 @@
+<p align="center">
+<img src="images\depositphotos_199494296-stock-photo-high-angle-view-coffee-cup.jpg">
+
 # Coffee_Analysis
 An analysis and visualization of worldwide coffee production and consumption.
 ## General Information
 Though I have been involved in may analysis projects, this project is my first "stand alone" analysis. No tutorials, no solution code, just using what I have been learning through various classes in Data Analysis.
 
-The project invovles:
+The project involves:
 
 - Preprocessing the data
 - DataFrame creation for analysis
 - Data visualization
 
-I hope to answer
+I hope to answer:
 - who are the top 5 countries for exporting, importing, and consuming coffee?
 - what has the growth been for these countries?
 - which country has seen the largest growth?
 
-I am sure there will be additional questions that will arise during the anaylsis.
+I am sure there will be additional questions that will arise during the anaylsis and visualizations.
 
 ## Data
 ### Data information
