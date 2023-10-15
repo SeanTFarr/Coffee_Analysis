@@ -44,8 +44,7 @@ Permission is given on the historical data page "The selected data may be downlo
 - Uploading data &#9745;
 - Preprocessing data &#9745;
 - Creating cleaned csv files &#9745;
-- Data analysis &#9744;
-- Data visualization &#9744;
+- Data analysis & visualization &#9744;
 - Final reporting &#9744;
 
 ## Reporting
