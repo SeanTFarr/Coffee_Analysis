@@ -48,5 +48,11 @@ Permission is given on the historical data page "The selected data may be downlo
 - Data visualization &#9744;
 - Final reporting &#9744;
 
+## Reporting
+
+<img src="images\top5_producers.png">
+
+<img src="images\top5_over_time.png">
+
 
 
