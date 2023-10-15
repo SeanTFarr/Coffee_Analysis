@@ -16,6 +16,8 @@ I hope to answer:
 - who are the top 5 countries for exporting, importing, and consuming coffee?
 - what has the growth been for these countries?
 - which country has seen the largest growth?
+- who are the top 5 coffee importers?
+- who are the top 5 exporters?
 
 I am sure there will be additional questions that will arise during the anaylsis and visualizations.
 
