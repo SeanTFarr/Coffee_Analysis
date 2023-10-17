@@ -53,6 +53,8 @@ Permission is given on the historical data page "The selected data may be downlo
 
 <img src="images\top5_producers.png"><img src="images\top5_export.png">
 
+<img src="images\top5_imports.png">
+
 <img src="images\top5_over_time.png">
 
 
