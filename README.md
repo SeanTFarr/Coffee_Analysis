@@ -1,6 +1,10 @@
 <p align="center">
 <img src="images\depositphotos_199494296-stock-photo-high-angle-view-coffee-cup.jpg">
 
+
+<img src="images\Coffee_image.jpg">
+
+
 # Coffee_Analysis
 An analysis and visualization of worldwide coffee production and consumption.
 ## General Information
