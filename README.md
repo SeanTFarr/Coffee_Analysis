@@ -51,7 +51,7 @@ Permission is given on the historical data page "The selected data may be downlo
 
 ## Preprocessing
 
-Here are some of the code line I used to preprocess the data. All files were xlsx sheets imported. After getting the data where I wanted it,  I save all as csv files to read in for  the analysi & visualizations
+Here are some of the code line I used to preprocess the data. All files were .xlsx sheets imported. After getting the data where I wanted it,  I save all as .csv files to read in for  the analysis & visualizations.
 
 <img src="images\import.png">
 <img src="images\clean-preprocess.png">
