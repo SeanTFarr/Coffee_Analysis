@@ -49,6 +49,15 @@ Permission is given on the historical data page "The selected data may be downlo
 - Data analysis & visualization &#9744;
 - Final reporting &#9744;
 
+## Preprocessing
+
+Here are some of the code line I used to preprocess the data
+
+<img src="images\import.png">
+<img src="images\clean-preprocess.png">
+<img src="images\export-csv.png">
+
+
 ## Reporting
 
 <img src="images\top5_producers.png"><img src="images\top5_export.png">
