@@ -46,8 +46,8 @@ Permission is given on the historical data page "The selected data may be downlo
 - Uploading data &#9745;
 - Preprocessing data &#9745;
 - Creating cleaned csv files &#9745;
-- Data analysis & visualization &#9744;
-- Final reporting &#9744;
+- Data analysis & visualization &#9745;
+- Final reporting &#9745;
 
 ## Preprocessing
 
@@ -80,4 +80,4 @@ Seeing the difference between Brazil's Production and Exporting made me wonder w
 
 <img src="images\top5_consumption.png">
 
-Overall this was an eye opening analysis. I did learn a lot about who produced, exported, imported, and consumed the most coffee. There were only a coulple of things about the data set that were a little disappointing. It may be due to affiliation, but knowing that South Korea is a large importer of coffee, I would have expected to see some data in the set.The United States ReExports a lot of coffee there, as well. Another thing I would have liked was a breakdown of the European Union to see more detail. I will look for further data to see if I can find these included.
+Overall this was an eye opening analysis. I did learn a lot about who produced, exported, imported, and consumed the most coffee. There were only a coulple of things about the data set that were a little disappointing. It may be due to affiliation, but knowing that South Korea is a large importer of coffee, I would have expected to see some data in the set.The United States ReExports a lot of coffee there, as well. Another thing I would have liked was a breakdown of the European Union to see more detail. I will look for further data to see if I can find these included. A future endeavor with coffee data, if I can find a dataset with more depth, will be in the form of a dashboard.
