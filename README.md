@@ -72,12 +72,12 @@ The top 5 importers, seen below, are from all across the globe. Seeing the numbe
 
 <img src="images\top5_imports.png">
 
-The top 4 of the top 5 are the same as the top 5 Producers. India out paced Ethiopia for Exporting though.
+The top 4 of the top 5 are the same as the top 5 Producers. India out paced Ethiopia for exporting though.
 
 <img src="images\top5_export.png">
 
-Seeing the difference between Brazil's Production and Exporting made me wonder where the rest of the coffe went. Well, the answwer is in consumption! Brazil leads the way by a large margin!
+Seeing the difference between Brazil's production and exporting made me wonder where the rest of the coffee went. Well, the answer is in consumption! Brazil leads the way by a large margin!
 
 <img src="images\top5_consumption.png">
 
-Overall this was an eye opening analysis. I did learn a lot about who produced, exported, imported, and consumed the most coffee. There were only a coulple of things about the data set that were a little disappointing. It may be due to affiliation, but knowing that South Korea is a large importer of coffee, I would have expected to see some data in the set.The United States ReExports a lot of coffee there, as well. Another thing I would have liked was a breakdown of the European Union to see more detail. I will look for further data to see if I can find these included. A future endeavor with coffee data, if I can find a dataset with more depth, will be in the form of a dashboard.
+Overall this was an eye opening analysis. I did learn a lot about who produced, exported, imported, and consumed the most coffee. There were only a coulple of things about the data set that were a little disappointing. It may be due to affiliation, but knowing that South Korea is a large importer of coffee, I would have expected to see some data in the set. The United States reexports a lot of coffee there, as well. Another thing I would have liked was a breakdown of the European Union to see more detail. I will look for further data to see if I can find these included. A future endeavor with coffee data, if I can find a dataset with more depth, will be in the form of a dashboard.
