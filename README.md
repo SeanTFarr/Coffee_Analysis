@@ -13,7 +13,7 @@ The project involves:
 - Data visualization
 
 I hope to answer:
-- who are the top 5 countries for exporting, importing, and consuming coffee?
+- who are the top 5 countries for producction, importing, and consuming coffee?
 - what has the growth been for these countries?
 - which country has seen the largest growth?
 - who are the top 5 coffee importers?
@@ -60,11 +60,24 @@ Here are some of the code line I used to preprocess the data. All files were .xl
 
 ## Reporting
 
-<img src="images\top5_producers.png"><img src="images\top5_export.png">
+Upon anaylsis of the data, I was a little surprised at who was on top. I did not know that Brazil had such a lead in all areas regarding coffee. 
 
-<img src="images\top5_imports.png">
+<img src="images\top5_producers.png">
+
+Number 2 was the biggest surprise for me. If not #1, I expected to see Columbia at least in the #2 spot. Well, it was. However Viet Nam surpassed Columbias production and has been continually growing. It has had the largest growth in production.
 
 <img src="images\top5_over_time.png">
 
+The top 5 importers, seen below, are from all across the globe. Seeing the number of Starbucks, Dunkin Donuts, and various other coffee shops throughout every state I have been in, I knew we would have to be near the top of this list. 
 
+<img src="images\top5_imports.png">
 
+The top 4 of the top 5 are the same as the top 5 Producers. India out paced Ethiopia for Exporting though.
+
+<img src="images\top5_export.png">
+
+Seeing the difference between Brazil's Production and Exporting made me wonder where the rest of the coffe went. Well, the answwer is in consumption! Brazil leads the way by a large margin!
+
+<img src="images\top5_consumption.png">
+
+Overall this was an eye opening analysis. I did learn a lot about who produced, exported, imported, and consumed the most coffee. There were only a coulple of things about the data set that were a little disappointing. It may be due to affiliation, but knowing that South Korea is a large importer of coffee, I would have expected to see some data in the set.The United States ReExports a lot of coffee there, as well. Another thing I would have liked was a breakdown of the European Union to see more detail. I will look for further data to see if I can find these included.
